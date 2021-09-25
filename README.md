@@ -16,6 +16,7 @@ Se precisar de ajuda com algum código meu ou autorização para uso de meus có
 ###############################
 
 ########### ENGLISH ###########
+
 Hi I'm Daniel, I currently work in the IT area, especially in the support and maintenance area,
 but sometimes I share development ideas with my co-workers.
 One of the things I like to do the most is website design, the frontend in this case.
