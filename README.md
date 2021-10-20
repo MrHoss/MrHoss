@@ -9,7 +9,6 @@ HTML,
 CSS,
 JS,
 PYTHON,
-PHP,
 
 Se precisar de ajuda com algum código meu ou autorização para uso de meus códigos mande uma mensagem no meu Whatsapp(+55 55 984071157).
 
@@ -26,7 +25,6 @@ HTML,
 CSS,
 JS,
 PYTHON,
-PHP,
 
 If you need help with any of my codes or authorization to use my codes, send a message to my Whatsapp (+55 55 984071157).
 
