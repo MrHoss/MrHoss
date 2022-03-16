@@ -2,8 +2,8 @@
     <H1>Hello my name is Daniel Souza, welcome to my Profile!</H1>  
 </header>
 <div>
-    <p>Olá, meu nome é <b>Daniel Souza</b>, sou de Santana do livramento e aluno da <b>UNINTER</b>. 
-Sou <b>Desenvolvedor Full-Stack Júnior!<b/>. Trabalho atualmente na empresa <span><img align="center" width="20" src="https://user-images.githubusercontent.com/88730920/158506237-196028d4-d8c9-449f-8075-d2ada14acf28.png"/> Soluque informática !</span>🖥️</p>
+    <p>Hello, my name is <b>Daniel Souza</b>, I'm from <b>Santana do Livramento - Brazil</b> and a <b>UNINTER</b> student. 
+I'm a <b>Dev Full-Stack Junior!<b/>. I currently work at <span><img align="center" width="20" src="https://user-images.githubusercontent.com/88730920/158506237-196028d4-d8c9-449f-8075-d2ada14acf28.png"/> Soluque informática !</span>🖥️</p>
      
 </div>
   
