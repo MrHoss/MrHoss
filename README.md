@@ -16,6 +16,7 @@ Sou <b>Desenvolvedor Full-Stack Júnior!<b/>. Trabalho atualmente na empresa <sp
     <img width="300px" src="https://user-images.githubusercontent.com/88730920/158504403-83a903d3-4c67-474e-a167-b193e3b6a1c7.png"/><br>
     <img width="300px" src="https://user-images.githubusercontent.com/88730920/158503261-6d7204e6-7ec1-4315-96bf-d5e534f689db.png"/><br>
 </div>
+## ⚙️ &nbsp;GitHub Analytics
 <div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MrHoss&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
