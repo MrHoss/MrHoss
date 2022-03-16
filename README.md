@@ -1,31 +1,27 @@
-########### PORTUGUÊS ###########
+<header>
+    <H1>Hello my name is Daniel Souza, welcome to my Profile!</H1>  
+</header>
+<body>
+  <div border-radius="5px">
+    <img align="right" width="500px" height="375px" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" style="border-radius:50%"/>
+  </div>
+  <div>
+    <p>Olá, meu nome é <b>Daniel Souza</b>, sou de Santana do livramento e aluno da <b>UNINTER</b>. 
+Sou <b>Desenvolvedor Full-Stack Júnior!<b/>. Trabalho atualmente na empresa <span color="#455"><img align="center" width="20" src="https://user-images.githubusercontent.com/88730920/158506237-196028d4-d8c9-449f-8075-d2ada14acf28.png"/> Soluque informática !</span>🖥️</p>
+  </div>
+  
+</body>
+<body align="left">
+## 🛠 &nbsp;Tech Stack
 
-Olá eu sou o Daniel, trabalho atualmente na área de TI, especialmente na área de suporte e manutenção, 
-porém as vezes compartilho idéias de desenvolvimento com meus colegas de trabalho.
-Uma das coisas que mais gosto de fazer é o design dos sites, o frontend no caso.
+![Sem Título-1](https://user-images.githubusercontent.com/88730920/158503582-cc221fb5-b3d0-43bd-91c5-933f4b51aa93.png)&nbsp;
+![Sem Título-2](https://user-images.githubusercontent.com/88730920/158504686-81a4227f-679e-448b-abfe-9e626c9ed69a.png)&nbsp;
+![DB](https://user-images.githubusercontent.com/88730920/158504403-83a903d3-4c67-474e-a167-b193e3b6a1c7.png)&nbsp;
+![Tools](https://user-images.githubusercontent.com/88730920/158503261-6d7204e6-7ec1-4315-96bf-d5e534f689db.png)&nbsp;
+  
+</body>
 
-As linguagens que eu estou habituado são:
-HTML,
-CSS,
-JS,
-PYTHON,
 
-Se precisar de ajuda com algum código meu ou autorização para uso de meus códigos mande uma mensagem no meu Whatsapp(+55 55 984071157).
 
-###############################
 
-########### ENGLISH ###########
-
-Hi I'm Daniel, I currently work in the IT area, especially in the support and maintenance area,
-but sometimes I share development ideas with my co-workers.
-One of the things I like to do the most is website design, the frontend in this case.
-
-The languages I'm used to are:
-HTML,
-CSS,
-JS,
-PYTHON,
-
-If you need help with any of my codes or authorization to use my codes, send a message to my Whatsapp (+55 55 984071157).
-
-###############################
+<br>
