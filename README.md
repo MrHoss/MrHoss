@@ -20,6 +20,5 @@ Sou <b>Desenvolvedor Full-Stack Júnior!<b/>. Trabalho atualmente na empresa <sp
 <div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MrHoss&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHoss&layout=compact&langs_count=7&theme=midnight-purple"/>
 
 </div>
