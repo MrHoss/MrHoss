@@ -11,10 +11,10 @@ I'm a <b>Dev Full-Stack Junior!<b/>.<br> I currently work at <span><img align="c
 ## 🛠 &nbsp;Tech Stack
 <div>
     <img align="right" width="auto" height="200px" src="https://cdn.dribbble.com/users/214929/screenshots/4366947/dribbble-shot_6.gif"/>
-    <img width="265px" src="https://user-images.githubusercontent.com/88730920/158503582-cc221fb5-b3d0-43bd-91c5-933f4b51aa93.png"/>
-    <img width="265px" src="https://user-images.githubusercontent.com/88730920/158504403-83a903d3-4c67-474e-a167-b193e3b6a1c7.png"/><br>
-    <img width="265px" src="https://user-images.githubusercontent.com/88730920/158504686-81a4227f-679e-448b-abfe-9e626c9ed69a.png"/>
-    <img width="265px" src="https://user-images.githubusercontent.com/88730920/158503261-6d7204e6-7ec1-4315-96bf-d5e534f689db.png"/>
+    <img width="265px" src="https://user-images.githubusercontent.com/88730920/158713488-4337d42c-7f52-4710-a0dc-9f8650fb1f4b.png"/>
+    <img width="265px" src="https://user-images.githubusercontent.com/88730920/158713575-bc831379-098e-420b-8186-cd70d438816b.png"/><br>
+    <img width="265px" src="https://user-images.githubusercontent.com/88730920/158713648-0122a1bd-6520-49e7-9a28-c7c9522cedff.png"/>
+    <img width="265px" src="https://user-images.githubusercontent.com/88730920/158713670-85fa009c-163f-4ac2-affb-53de96212b89.png"/>
 </div>
 
 ## ⚙️ &nbsp;GitHub Analytics
