@@ -15,15 +15,12 @@ I'm a <b>Dev Full-Stack Junior!<b/>.<br> I currently work at <span><img align="c
     <img width="265px" src="https://user-images.githubusercontent.com/88730920/158713575-bc831379-098e-420b-8186-cd70d438816b.png"/><br>
     <img width="265px" src="https://user-images.githubusercontent.com/88730920/158713648-0122a1bd-6520-49e7-9a28-c7c9522cedff.png"/>
     <img width="265px" src="https://user-images.githubusercontent.com/88730920/158713670-85fa009c-163f-4ac2-affb-53de96212b89.png"/>
+</div>
+<div>
     <img width="350px" src="https://user-images.githubusercontent.com/88730920/158719700-069a8ffc-d840-4679-94e4-f780cf3ee7ad.png"/>
-
-
 </div>
 
 ## ⚙️ &nbsp;GitHub Analytics
-<div align="left">![Detalhes1](https://user-images.githubusercontent.com/88730920/158719686-3a059370-723a-4ef5-b5dd-078a78b32165.png)
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=MrHoss&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide-border=true"/>
-
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=MrHoss&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide-        border=true"/>
 </div>
