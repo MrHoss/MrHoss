@@ -24,3 +24,4 @@ I'm a <b>Dev Full-Stack Junior!<b/>.<br> I currently work at <span><img align="c
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=MrHoss&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide-        border=true"/>
 </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrHoss&layout=compact&langs_count=7&theme=midnight-purple)
