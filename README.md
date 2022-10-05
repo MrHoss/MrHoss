@@ -27,3 +27,5 @@ I'm a <b>Dev Full-Stack Junior!<b/>.<br> I currently work at <span><img align="c
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHoss&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+
+![snake gif](https://github.com/MrHoss/MrHoss/blob/output/github-contribution-grid-snake.gif)
