@@ -13,7 +13,7 @@ I'm a <b>Junior Web Developer<b/>.<br> I currently work at <span><img align="cen
         
 ## 🛠 &nbsp;Tech Stack
 <div>
-    <img align="right" width="auto" height="300px" src="https://user-images.githubusercontent.com/88730920/194185359-dc7cee89-2247-482b-942e-b05f9977718e.gif">
+    <img align="right" width="auto" height="300px" src="https://user-images.githubusercontent.com/88730920/230802146-2d388da3-aca1-4616-b59e-619a9ca6525e.gif">
 </div>
 <div>
     <div>
