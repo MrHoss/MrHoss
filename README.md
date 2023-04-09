@@ -24,7 +24,7 @@ I'm a <b>Dev Full-Stack Junior!<b/>.<br> I currently work at <span><img align="c
         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-        <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
+        <img src="https://img.shields.io/static/v1?label=html&message=markup language&color=orange&style=for-the-badge&logo=HTML"/>
     </div>
     <div>
         <h3>Frameworks and Libs</h3>
