@@ -1,5 +1,5 @@
 <header>
-    <H1>Hello my name is Daniel Souza, welcome to my Profile!</H1>  
+    <H1>Hello my name is Daniel Souza, welcome to my profile!</H1>  
 </header>
 <div>
     <p>Hello, my name is <b>Daniel Souza</b>, I'm from <b>Santana do Livramento - Brazil</b> and I am an <b>UNINTER</b> student.<br> 
