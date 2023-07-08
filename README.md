@@ -75,7 +75,7 @@ I'm a <b>Junior Web Developer<b/>.<br> I currently work at <span><img align="cen
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrHoss&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrHoss&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrHoss&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrHoss&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrHoss&theme=github_dark&utcOffset=-3)
 
 </div>
 
