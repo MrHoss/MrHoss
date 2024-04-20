@@ -5,7 +5,8 @@
     <p>Hello! I'm <b>Daniel Souza</b>, passionate about turning ideas into incredible digital experiences. I'm from <b>Santana do Livramento, Brazil</b>.</p>
 <p>Graduated in <b>Systems Analysis and Development</b> from <b>UNINTER</b>, I've dedicated my career to creating solutions that make a difference.</p>
 <p>I'm a <b>Fullstack Web Developer</b>, currently working at <span><img align="center" width="20" src="https://user-images.githubusercontent.com/88730920/158506237-196028d4-d8c9-449f-8075-d2ada14acf28.png"/> Soluque Informática</span> 🖥️</p>
-
+</div>
+<div>
     <a href="https://www.linkedin.com/in/danielsouzamh5263/">
         <img src="https://img.shields.io/badge/Linkedin-/in/danielsouzamh5263-1C2128?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=blue"/>         </a></br>
     <a href="https://danielsouza-portfolio.vercel.app/">
