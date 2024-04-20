@@ -2,7 +2,9 @@
     <H1>Hello my name is Daniel Souza, welcome to my profile!</H1>  
 </header>
 <div>
-    <p>Hello, my name is <b>Daniel Souza</b>, I'm from <b>Santana do Livramento - Brazil</b> and I am an <b>UNINTER</b> student.<br> 
+    <p>Hello! I'm <b>Daniel Souza</b>, passionate about transforming ideas into incredible digital experiences. I'm from <b>Santana do Livramento - Brazil</b>.
+<p>Graduated in <b>Systems Analysis and Development</b> from <b>UNINTER</b>, I dedicated my career to creating
+solutions that make a difference.</p>
 I'm a <b>Junior Web Developer<b/>.<br> I currently work at <span><img align="center" width="20" src="https://user-images.githubusercontent.com/88730920/158506237-196028d4-d8c9-449f-8075-d2ada14acf28.png"/> Soluque informática !</span>🖥️</p>
     <a href="https://www.linkedin.com/in/danielsouzamh5263/">
         <img src="https://img.shields.io/badge/Linkedin-/in/danielsouzamh5263-1C2128?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=blue"/>         </a></br>
