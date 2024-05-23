@@ -24,15 +24,17 @@
         <img src="https://img.shields.io/badge/html5-1C2128?style=for-the-badge&logo=html5&logoColor=E34F26"/>
         <img src="https://img.shields.io/badge/CSS3-1C2128?style=for-the-badge&logo=css3&logoColor=1572B6"/>
         <img src="https://img.shields.io/badge/Bootstrap-1C2128?style=for-the-badge&logo=Bootstrap&logoColor=23563D7C"/></br>
-        <img src="https://img.shields.io/badge/JavaScript-1C2128?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
         <img src="https://img.shields.io/badge/TypeScript-1C2128?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
-        <img src="https://img.shields.io/badge/NPM-1C2128?style=for-the-badge&logo=npm&logoColor=23CB3837"/>
+        <img src="https://img.shields.io/badge/JavaScript-1C2128?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
         <img src="https://img.shields.io/badge/React-1C2128?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-1C2128?style=for-the-badge&logo=node.js&logoColor=43853D"/>
         <img src="https://img.shields.io/badge/Next.js-1C2128?style=for-the-badge&logo=nextdotjs&logoColor=2361DAFB"/>
         <img src="https://img.shields.io/badge/Express.js-1C2128?style=for-the-badge&logo=express&logoColor=2361DAFB"/>
         <img src="https://img.shields.io/badge/Sequelize-1C2128?style=for-the-badge&logo=sequelize&logoColor=2361DAFB"/>
-        <img src="https://img.shields.io/badge/MUI-1C2128?style=for-the-badge&logo=mui&logoColor=230081CB"/></br>
+        <img src="https://img.shields.io/badge/MUI-1C2128?style=for-the-badge&logo=mui&logoColor=230081CB"/>
+        <img src="https://img.shields.io/badge/Node.js-1C2128?style=for-the-badge&logo=node.js&logoColor=43853D"/>
+        <img src="https://img.shields.io/badge/NPM-1C2128?style=for-the-badge&logo=npm&logoColor=23CB3837"/>
+        <img src="https://img.shields.io/badge/Yarn-1C2128?style=for-the-badge&logo=yarn&logoColor=23CB3837"/>
+        <img src="https://img.shields.io/badge/Deno-1C2128?style=for-the-badge&logo=deno&logoColor=23CB3837"/></br>
         <img src="https://img.shields.io/badge/Python-1C2128?style=for-the-badge&logo=python&logoColor=1572B6"/>
         <img src="https://img.shields.io/badge/Flask-1C2128?style=for-the-badge&logo=flask&logoColor=00000000"/>
         <img src="https://img.shields.io/badge/SQLAlchemy-1C2128?style=for-the-badge&logo=sqlalchemy&logoColor="/>
