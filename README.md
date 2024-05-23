@@ -29,6 +29,7 @@
         <img src="https://img.shields.io/badge/NPM-1C2128?style=for-the-badge&logo=npm&logoColor=23CB3837"/>
         <img src="https://img.shields.io/badge/React-1C2128?style=for-the-badge&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Node.js-1C2128?style=for-the-badge&logo=node.js&logoColor=43853D"/>
+        <img src="https://img.shields.io/badge/Next.js-1C2128?style=for-the-badge&logo=nextdotjs&logoColor=2361DAFB"/>
         <img src="https://img.shields.io/badge/Express.js-1C2128?style=for-the-badge&logo=express&logoColor=2361DAFB"/>
         <img src="https://img.shields.io/badge/Sequelize-1C2128?style=for-the-badge&logo=sequelize&logoColor=2361DAFB"/>
         <img src="https://img.shields.io/badge/MUI-1C2128?style=for-the-badge&logo=mui&logoColor=230081CB"/></br>
@@ -50,12 +51,12 @@
         <img src="https://img.shields.io/badge/WordPress-1C2128?style=for-the-badge&logo=wordpress&logoColor=23117AC9"/></br>
         <img src="https://img.shields.io/badge/Shell%20Script-1C2128?style=for-the-badge&logo=gnu-bash&logoColor=00000000"/></br>
         <img src="https://img.shields.io/badge/Java-1C2128?style=for-the-badge&logo=java&logoColor=F7DF1E"/></br>
-        <img src="https://img.shields.io/badge/C%23-1C2128?style=for-the-badge&logo=c-sharp&logoColor=239120"/></br>
     <div>
     </div>
         <h3>Databases</h3>
         <img src="https://img.shields.io/badge/MySQL-1C2128?style=for-the-badge&logo=mysql&logoColor=007ACC33"/>
         <img src="https://img.shields.io/badge/MariaDB-1C2128?style=for-the-badge&logo=mariadb&logoColor=01529E"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-1C2128?style=for-the-badge&logo=postgresql&logoColor=31648B"/>
         <img src="https://img.shields.io/badge/SQLite-1C2128?style=for-the-badge&logo=sqlite&logoColor=07405E"/>
         <img src="https://img.shields.io/badge/firebase-1C2128?style=for-the-badge&logo=firebase&logoColor=23F05033"/></br>
     <div>
