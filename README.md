@@ -4,7 +4,7 @@
 <div>
     <p>Hello! I'm <b>Daniel Souza</b>, passionate about turning ideas into incredible digital experiences. I'm from <b>Santana do Livramento, Brazil</b>.</p>
 <p>Graduated in <b>Systems Analysis and Development</b> from <b>UNINTER</b>, I've dedicated my career to creating solutions that make a difference.</p>
-<p>I'm a <b>Fullstack Web Developer</b>, currently working at <span><img align="center" width="20" src="https://user-images.githubusercontent.com/88730920/158506237-196028d4-d8c9-449f-8075-d2ada14acf28.png"/> Soluque Informática</span> 🖥️</p>
+<p>I'm a <b>Fullstack Web Developer</b>, currently working at <span><img align="center" width="20" src="https://github.com/user-attachments/assets/e3f52beb-b173-4a54-a2a4-5696de9d76e2"/> CorpSystem</span> 🖥️</p>
 </div>
 <div>
     <a href="https://www.linkedin.com/in/danielsouzamh5263/">
@@ -36,6 +36,7 @@
         <img src="https://img.shields.io/badge/Yarn-1C2128?style=for-the-badge&logo=yarn&logoColor=23CB3837"/>
         <img src="https://img.shields.io/badge/Deno-1C2128?style=for-the-badge&logo=deno&logoColor=23CB3837"/></br>
         <img src="https://img.shields.io/badge/Python-1C2128?style=for-the-badge&logo=python&logoColor=1572B6"/>
+        <img src="https://img.shields.io/badge/Django-1C2128?style=for-the-badge&logo=django&logoColor=092E20"/>
         <img src="https://img.shields.io/badge/Flask-1C2128?style=for-the-badge&logo=flask&logoColor=00000000"/>
         <img src="https://img.shields.io/badge/SQLAlchemy-1C2128?style=for-the-badge&logo=sqlalchemy&logoColor="/>
         <img src="https://img.shields.io/badge/Jinja-1C2128?style=for-the-badge&logo=jinja&logoColor=00000000"/>
@@ -67,6 +68,8 @@
         <img src="https://img.shields.io/badge/Git-1C2128?style=for-the-badge&logo=git&logoColor=E34F2633"/>
         <img src="https://img.shields.io/badge/github-1C2128?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
         <img src="https://img.shields.io/badge/gitlab-1C2128?style=for-the-badge&logo=gitlab&logoColor=E34F2633"/>
+        <img src="https://img.shields.io/badge/Docker-1C2128?style=for-the-badge&logo=docker&logoColor=#2496ED"/>
+        <img src="https://img.shields.io/badge/Rancher-1C2128?style=for-the-badge&logo=rancher&logoColor=0075A8"/>
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-1C2128?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7"/>
         <img src="https://img.shields.io/badge/PyCharm-1C2128?style=for-the-badge&logo=pycharm&logoColor=green"/>
         <img src="https://img.shields.io/badge/Linux-1C2128?style=for-the-badge&logo=linux&logoColor=FCC624"/>
