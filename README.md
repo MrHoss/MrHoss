@@ -16,9 +16,6 @@
         
 ## 🛠 &nbsp;Tech Stack
 <div>
-    <img align="right" width="400" height="auto" src="https://user-images.githubusercontent.com/88730920/230802354-e01c9a9d-1da0-4059-b807-5dea3fdc1c4a.gif">
-</div>
-<div>
     <div>
         <h3>Languages, Frameworks and Libs</h3>
         <img src="https://img.shields.io/badge/html5-1C2128?style=for-the-badge&logo=html5&logoColor=E34F26"/>
