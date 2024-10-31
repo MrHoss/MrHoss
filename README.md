@@ -15,8 +15,9 @@
 </div>
         
 ## 🛠 &nbsp;Tech Stack
+
 <div>
-    <img align="right" src="https://github.com/user-attachments/assets/3ee1376a-f939-4f0d-8a9a-e29b6da87be1" width=500 height=500/>
+    <img align="right" src="https://c.tenor.com/YUzRkMOL-3EAAAAd/tenor.gif" width=400 height=auto/>
 </div>
 <div>
     <div>
