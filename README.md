@@ -1,16 +1,16 @@
 <header>
-  <h1>👋 Olá! Eu sou o Daniel Souza</h1>
+  <h1>👋 Hello! I'm Daniel Souza</h1>
 </header>
 
 <div>
   <p>
-    Desenvolvedor <strong>Fullstack</strong> de <strong>Santana do Livramento, Brasil</strong>, apaixonado por tecnologia, desenvolvimento e soluções que realmente fazem a diferença. Trabalho com <strong>TypeScript, JavaScript, Rust e Python</strong>, sempre buscando código eficiente e sustentável.
+    <strong>Fullstack</strong> developer from <strong>Santana do Livramento, Brazil</strong>, passionate about technology, development, and building solutions that truly make a difference. I work with <strong>TypeScript, JavaScript, Rust, and Python</strong>, always striving for efficient and sustainable code.
   </p>
   <p>
-    Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>UNINTER</strong> e acredito que a melhor combinação vem do equilíbrio entre teoria e prática: estudo constante, testes reais e vontade de melhorar a cada projeto.
+    I hold a degree in <strong>Systems Analysis and Development</strong> from <strong>UNINTER</strong> and believe the best results come from a balance between theory and practice: continuous learning, real-world testing, and the drive to improve with every project.
   </p>
   <p>
-    Atualmente, atuo na <span><img align="center" width="20" src="https://github.com/user-attachments/assets/e3f52beb-b173-4a54-a2a4-5696de9d76e2"/> <strong>CorpSystem</strong></span>, trabalhando no <strong>ERP</strong> principal da empresa — criando novas funcionalidades, aprimorando a arquitetura e garantindo que tudo funcione com estabilidade e performance.
+    Currently, I work at <span><img align="center" width="20" src="https://github.com/user-attachments/assets/e3f52beb-b173-4a54-a2a4-5696de9d76e2"/> <strong>CorpSystem</strong></span>, contributing to the company's main <strong>ERP</strong>—developing new features, improving architecture, and ensuring stability and performance.
   </p>
 </div>
 
