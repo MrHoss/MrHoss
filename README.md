@@ -1,11 +1,19 @@
 <header>
-    <H1>Hello my name is Daniel Souza, welcome to my profile!</H1>  
+  <h1>👋 Olá! Eu sou o Daniel Souza</h1>
 </header>
+
 <div>
-    <p>Hello! I'm <b>Daniel Souza</b>, passionate about turning ideas into incredible digital experiences. I'm from <b>Santana do Livramento, Brazil</b>.</p>
-<p>Graduated in <b>Systems Analysis and Development</b> from <b>UNINTER</b>, I've dedicated my career to creating solutions that make a difference.</p>
-<p>I'm a <b>Fullstack Web Developer</b>, currently working at <span><img align="center" width="20" src="https://github.com/user-attachments/assets/e3f52beb-b173-4a54-a2a4-5696de9d76e2"/> CorpSystem</span> 🖥️</p>
+  <p>
+    Desenvolvedor <strong>Fullstack</strong> de <strong>Santana do Livramento, Brasil</strong>, apaixonado por tecnologia, desenvolvimento e soluções que realmente fazem a diferença. Trabalho com <strong>TypeScript, JavaScript, Rust e Python</strong>, sempre buscando código eficiente e sustentável.
+  </p>
+  <p>
+    Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>UNINTER</strong> e acredito que a melhor combinação vem do equilíbrio entre teoria e prática: estudo constante, testes reais e vontade de melhorar a cada projeto.
+  </p>
+  <p>
+    Atualmente, atuo na <span><img align="center" width="20" src="https://github.com/user-attachments/assets/e3f52beb-b173-4a54-a2a4-5696de9d76e2"/> <strong>CorpSystem</strong></span>, trabalhando no <strong>ERP</strong> principal da empresa — criando novas funcionalidades, aprimorando a arquitetura e garantindo que tudo funcione com estabilidade e performance.
+  </p>
 </div>
+
 <div>
     <a href="https://www.linkedin.com/in/danielsouzamh5263/">
         <img src="https://img.shields.io/badge/Linkedin-/in/danielsouzamh5263-1C2128?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=blue"/>         </a></br>
