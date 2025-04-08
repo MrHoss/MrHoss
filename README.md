@@ -16,9 +16,16 @@
 
 <div>
     <a href="https://www.linkedin.com/in/danielsouzamh5263/">
-        <img src="https://img.shields.io/badge/Linkedin-/in/danielsouzamh5263-1C2128?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=blue"/>         </a></br>
+        <img src="https://img.shields.io/badge/Linkedin-/in/danielsouzamh5263-1C2128?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=blue"/>         
+    </a></br>
     <a href="https://danielsouza-portfolio.vercel.app/">
         <img src="https://img.shields.io/badge/portfolio-danielsouza--portfolio.vercel.app-E34F26?style=for-the-badge&logo=portfolio&logoColor=E34F26"/>
+    </a></br>
+    <a href="https://wa.me/5555984071157">
+        <img src="https://img.shields.io/badge/whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    </a>
+    <a href="https://t.me/mrhoss5263">
+        <img src="https://img.shields.io/badge/telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
 </div>
         
@@ -89,19 +96,19 @@
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
   
-<div align="center">
-  
+  <div align="center">
+    
   ![views](https://komarev.com/ghpvc/?username=mrhoss&label=Profile%20views&color=0e75b6&style=for-the-badge)
-  
-</div>
+    
+  </div>
 
-![streaks](https://github-readme-streak-stats.herokuapp.com?user=MrHoss&theme=github-dark-blue&hide_border=true&mode=weekly)
-![trophy](https://github-profile-trophy.vercel.app/?username=mrhoss&theme=darkhub&no-frame=true&column=-1)
-![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrHoss&theme=github_dark)
-![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrHoss&theme=github_dark)
-![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrHoss&theme=github_dark)
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrHoss&theme=github_dark)
-![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrHoss&theme=github_dark&utcOffset=-3)
+  ![streaks](https://github-readme-streak-stats.herokuapp.com?user=MrHoss&theme=github-dark-blue&hide_border=true&mode=weekly)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=mrhoss&theme=darkhub&no-frame=true&column=-1)
+  ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrHoss&theme=github_dark)
+  ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrHoss&theme=github_dark)
+  ![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrHoss&theme=github_dark)
+  ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrHoss&theme=github_dark)
+  ![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrHoss&theme=github_dark&utcOffset=-3)
 
 </div>
 
