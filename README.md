@@ -102,8 +102,8 @@
     
   </div>
 
-  ![streaks](https://github-readme-streak-stats.herokuapp.com?user=MrHoss&theme=github-dark-blue&hide_border=true&mode=weekly)
-  ![trophy](https://github-profile-trophy.vercel.app/?username=mrhoss&theme=darkhub&no-frame=true&column=-1)
+  <!--![streaks](https://github-readme-streak-stats.herokuapp.com?user=MrHoss&theme=github-dark-blue&hide_border=true&mode=weekly)-->
+  <!--![trophy](https://github-profile-trophy.vercel.app/?username=mrhoss&theme=darkhub&no-frame=true&column=-1)-->
   ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrHoss&theme=github_dark)
   ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrHoss&theme=github_dark)
   ![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrHoss&theme=github_dark)
