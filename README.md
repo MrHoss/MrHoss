@@ -30,9 +30,11 @@ Currently, I work at **CorpSystem**, contributing to the company’s ERP system 
 ### Backend & Frameworks
 
 * Express.js
+* NestJS
 * Django
 * Flask
 * Sequelize
+* TypeORM
 * SQLAlchemy
 * Actix Web
 
@@ -46,10 +48,11 @@ Currently, I work at **CorpSystem**, contributing to the company’s ERP system 
 ### DevOps & Tools
 
 * Docker
-* Git & GitHub
+* Git | GitHub | GitLab
 * Linux
 * CI/CD workflows
 * VS Code & PyCharm
+* Windows & Linux (Debian, Arch, and Fedora-based distributions)
 
 ---
 
