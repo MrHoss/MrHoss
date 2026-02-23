@@ -1,90 +1,92 @@
-# 👋 Hello! I'm Daniel Souza
+# 👋 Hi, I'm Daniel Souza
 
-Fullstack developer from **Santana do Livramento, Brazil**, passionate about technology, software development, and building solutions that truly make a difference.
+Backend Engineer from Brazil 🇧🇷 focused on building scalable APIs, business systems, and performance-oriented applications.
 
-I work mainly with **TypeScript, JavaScript, Rust, and Python**, always focusing on clean architecture, performance, and long-term maintainability.
+I specialize in designing and maintaining **RESTful APIs**, working with relational databases, and implementing clean, maintainable backend architectures that support real-world business operations.
 
-I hold a degree in **Systems Analysis and Development** from **UNINTER** and strongly believe that the best results come from balancing theory and practice — continuous learning, real-world testing, and constant improvement.
+Currently, I work at **CorpSystem**, contributing to the company’s ERP system in production — developing new modules, improving architecture, optimizing database queries, and ensuring reliability and performance at scale.
 
-Currently, I work at **CorpSystem**, contributing to the company’s main **ERP system**, where I help develop new features, improve system architecture, and ensure stability and performance at scale.
+---
+
+## 🚀 What I Build
+
+* RESTful APIs with Node.js and Python
+* ERP and business management systems
+* Database-driven backend services
+* Business rule implementations
+* System integrations and automation tools
+* Dockerized and production-ready environments
+
+---
+
+## 🧠 Core Stack
+
+### Languages
+
+* TypeScript (Node.js)
+* Python
+* Rust
+
+### Backend & Frameworks
+
+* Express.js
+* Django
+* Flask
+* Sequelize
+* SQLAlchemy
+* Actix Web
+
+### Databases
+
+* PostgreSQL
+* MySQL
+* MariaDB
+* SQLite
+
+### DevOps & Tools
+
+* Docker
+* Git & GitHub
+* Linux
+* CI/CD workflows
+* VS Code & PyCharm
 
 ---
 
 ## 🌐 Contact & Links
 
-- 💼 **LinkedIn**  
-  [danielsouzamh5263](https://www.linkedin.com/in/danielsouzamh5263/)
+* 💼 LinkedIn
+  [https://www.linkedin.com/in/danielsouzamh5263/](https://www.linkedin.com/in/danielsouzamh5263/)
 
-- 🌎 **Portfolio**  
-  [danielsouza-portfolio.vercel.app](https://danielsouza-portfolio.vercel.app/)
+* 🌎 Portfolio
+  [https://danielsouza-portfolio.vercel.app/](https://danielsouza-portfolio.vercel.app/)
 
-- 💬 **WhatsApp**  
-  [Chat on WhatsApp](https://wa.me/5555984071157)
+* 💬 WhatsApp
+  [https://wa.me/5555984071157](https://wa.me/5555984071157)
 
-- ✈️ **Telegram**  
-  [@mrhoss5263](https://t.me/mrhoss5263)
+* ✈️ Telegram
+  [https://t.me/mrhoss5263](https://t.me/mrhoss5263)
+
+---
+
+## 📌 Professional Mindset
+
+I believe great backend systems are built on:
+
+* Clear architecture
+* Strong data modeling
+* Performance awareness
+* Code readability and maintainability
+* Continuous improvement
+
+I’m always learning, refining, and aiming to build systems that are reliable, scalable, and aligned with real business needs.
 
 ---
 
-## 🛠 Tech Stack
-
-### 💻 Languages
-- TypeScript
-- JavaScript
-- Python
-- Rust
-- PHP
-- Java
-- Shell Script
-
-### ⚙️ Frameworks, Libraries & Runtimes
-- React
-- Next.js
-- Node.js
-- Express.js
-- Sequelize
-- Material UI (MUI)
-- Django
-- Flask
-- SQLAlchemy
-- Jinja
-- Pandas
-- SciPy
-- Scikit-learn
-- Selenium
-- Jupyter
-- Qt
-- Actix Web
-- Diesel
-- Tera
-- WordPress
-- Deno
-
-### 🗄 Databases
-- PostgreSQL
-- MySQL
-- MariaDB
-- SQLite
-- Firebase
-
-### 🧰 Tools & Platforms
-- Git
-- GitHub
-- GitLab
-- Docker
-- Rancher
-- Linux
-- Windows
-- Visual Studio Code
-- PyCharm
-
----
 
 ## ⚙️ GitHub Analytics
 
 <div align="center">
-
-![views](https://komarev.com/ghpvc/?username=mrhoss&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrHoss&theme=github_dark)
 ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrHoss&theme=github_dark)
