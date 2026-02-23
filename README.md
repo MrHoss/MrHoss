@@ -62,7 +62,7 @@ Currently, I work at **CorpSystem**, contributing to the company’s ERP system 
   [https://www.linkedin.com/in/danielsouzamh5263/](https://www.linkedin.com/in/danielsouzamh5263/)
 
 * 🌎 Portfolio
-  [https://danielsouza-portfolio.vercel.app/](https://danielsouza-portfolio.vercel.app/&utm_source=GitHub)
+  [https://danielsouza-portfolio.vercel.app/](https://danielsouza-portfolio.vercel.app/?utm_source=GitHub)
 
 * 💬 WhatsApp
   [https://wa.me/5555984071157](https://wa.me/5555984071157)
