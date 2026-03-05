@@ -1,21 +1,21 @@
 # 👋 Hi, I'm Daniel Souza
 
-Backend Engineer from Brazil 🇧🇷 focused on building scalable APIs, business systems, and performance-oriented applications.
+Backend Engineer from Brazil 🇧🇷 focused on designing scalable architectures and high-performance business systems.
 
-I specialize in designing and maintaining **RESTful APIs**, working with relational databases, and implementing clean, maintainable backend architectures that support real-world business operations.
+I build robust backend platforms, model complex business domains, and deliver production-ready systems that support mission-critical operations.
 
-Currently, I work at **CorpSystem**, contributing to the company’s ERP system in production — developing new modules, improving architecture, optimizing database queries, and ensuring reliability and performance at scale.
+Currently at **CorpSystem**, contributing to a production-grade ERP platform — leading architectural improvements, optimizing complex database workflows, implementing new modules, and ensuring system reliability under growing demand.
 
 ---
 
-## 🚀 What I Build
+## 🚀 Core Expertise
 
-* RESTful APIs with Node.js and Python
-* ERP and business management systems
-* Database-driven backend services
-* Business rule implementations
-* System integrations and automation tools
-* Dockerized and production-ready environments
+* Scalable RESTful API design (Node.js / TypeScript, Python, Rust)
+* Backend architecture (Clean Architecture, SOLID, modular systems)
+* Complex domain modeling and business rule implementation
+* Relational database design and performance tuning
+* Query optimization and data integrity strategies
+* Production deployment and long-term maintainability
 
 ---
 
@@ -56,6 +56,15 @@ Currently, I work at **CorpSystem**, contributing to the company’s ERP system 
 
 ---
 
+## 🧠 Engineering Principles
+
+* Clarity over cleverness
+* Strong domain modeling
+* Performance with purpose
+* Systems built to scale sustainably
+
+---
+
 ## 🌐 Contact & Links
 
 * 💼 LinkedIn
@@ -71,21 +80,6 @@ Currently, I work at **CorpSystem**, contributing to the company’s ERP system 
   [https://t.me/mrhoss5263](https://t.me/mrhoss5263)
 
 ---
-
-## 📌 Professional Mindset
-
-I believe great backend systems are built on:
-
-* Clear architecture
-* Strong data modeling
-* Performance awareness
-* Code readability and maintainability
-* Continuous improvement
-
-I’m always learning, refining, and aiming to build systems that are reliable, scalable, and aligned with real business needs.
-
----
-
 
 ## ⚙️ GitHub Analytics
 
