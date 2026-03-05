@@ -19,7 +19,7 @@ Currently at **CorpSystem**, contributing to a production-grade ERP platform —
 
 ---
 
-## 🧠 Core Stack
+## 🛠️ Core Stack
 
 ### Languages
 
